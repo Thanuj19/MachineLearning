@@ -17,3 +17,19 @@ This code implements a machine learning model to classify news articles as eithe
 
 Overall, this code showcases a practical application of machine learning techniques for detecting fake news, a task of considerable importance in today's information landscape.
 
+For Unsupervised learning:
+
+Introduction: The notebook begins with introductory information about the course, including the professor's name, contact details, and the last modification date.
+Chapter 3: Unsupervised Learning:
+Preview: An overview of the chapter, adapted from the reference text "Introduction to Machine Learning with Python" by Andreas C. Muller & Sarah Guido.
+Different Kinds of Preprocessing:
+Demonstrates various data preprocessing techniques, including scaling and transformation, using examples with the breast cancer dataset.
+The Effect of Preprocessing on Supervised Learning:
+Examines how different preprocessing methods impact the performance of a Support Vector Machine (SVM) classifier on the breast cancer dataset.
+Dimensionality Reduction, Feature Extraction, and Manifold Learning:
+Introduces Principal Component Analysis (PCA) as a dimensionality reduction technique.
+Applies PCA to the breast cancer dataset for visualization and analysis.
+Conclusion:
+The notebook concludes after presenting visualizations and analysis of the PCA results.
+
+For supervised learning:
