@@ -32,4 +32,3 @@ Applies PCA to the breast cancer dataset for visualization and analysis.
 Conclusion:
 The notebook concludes after presenting visualizations and analysis of the PCA results.
 
-For supervised learning:
